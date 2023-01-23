@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import AdvanceValue from "../components/ AdvanceValue";
+import AdvanceValue from "../components/AdvanceValue";
 
 const RoutesApplication = () => {
   return (
